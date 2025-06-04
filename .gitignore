@@ -119,7 +119,7 @@ tmp/
 *.temp
 
 # MCP server processes
-mcp_servers/
+#mcp_servers/
 *.pid
 
 # Documentation build
@@ -132,7 +132,7 @@ docs/_static/
 docs/_templates/
 
 # Model files and checkpoints
-models/
+#models/
 checkpoints/
 *.pkl
 *.pickle
