@@ -421,4 +421,3 @@ For questions and support:
 
 ---
 
-**Next Steps**: Ready to generate the first file? Let me know which component you'd like me to create first from the project structure above!
